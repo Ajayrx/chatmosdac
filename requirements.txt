@@ -1,0 +1,9 @@
+streamlit
+langchain==0.1.14
+sentence-transformers
+faiss-cpu
+pypdf
+unstructured
+python-docx
+ollama
+docx2txt
